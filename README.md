@@ -7,7 +7,7 @@ formatted with Microsoft Word to clearly and accuratly answer questions, give in
 The labs contained in this repository display hands on practice with computer and network security principles as well as incident prevention and management. This includes aspects such as availability, integrity, authentication, confidentiality and non-repudiation to ensure secure transmission, storage and processing of information.
 
 ## Table of Contents
-* [Final Details](https://github.com/DustinZCrawford/Information-Security-and-Privacy/edit/main/README.md#final-details)
+* [Final Details](##Final_Details)
 
 ## [Virtual Machines and Network Capture](https://github.com/DustinZCrawford/Intro-to-Networking-and-Telecommunication/blob/main/Virtual_Machines_%26_Network_Capture.pdf)
 Focused on configuring a virtual machine, capturing network activiy and analysing the detials of that capture with Wireshark through admin permissions, and matching TCP/IP layers with their expected processes.
