@@ -43,9 +43,10 @@ Used administrative permissions in Ubuntu Linux to display authentication, diffe
 * Command Line
 
 ## [Deciphering Classical Ciphers]()
---
+Focused on deciphering messages from both a shift cipher (also known as a caesar cipher) and a substitution cipher. Methods I used were brute force and pattern recogniztion such as frequency analysis and statistics like most common letters and letter combinations.
 
 #### Applications and Tools:
+*
 
 ## [Using Public Key Algorithms]()
 --
