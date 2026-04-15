@@ -7,16 +7,16 @@ formatted with Microsoft Word to clearly and accuratly answer questions, give in
 The labs contained in this repository display hands on practice with computer and network security principles as well as incident prevention and management. This includes aspects such as availability, integrity, authentication, confidentiality and non-repudiation to ensure secure transmission, storage and processing of information.
 
 ## Table of Contents
-* [Linux Core Commands]()
-* [Password Cracking]()
-* [Authentication Access Control]()
-* [Deciphering Classical Ciphers]()
-* [Using Public Key Algorithms]()
-* [Reconnaissance and Scanning]()
-* [Exploitation]()
-* [Wireless Exploitation]()
-* [Firewalls and Interusion Detection Systems]()
-* [Final Details](#Final_Details)
+* Linux Core Commands
+* Password Cracking
+* Authentication Access Control
+* Deciphering Classical Ciphers
+* Using Public Key Algorithms
+* Reconnaissance and Scanning
+* Exploitation
+* Wireless Exploitation
+* Firewalls and Interusion Detection Systems
+* Final Details
 
 ## [Linux Core Commands]()
 ## [Password Cracking]()
