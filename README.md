@@ -43,10 +43,13 @@ Used administrative permissions in Ubuntu Linux to display authentication, diffe
 * Command Line
 
 ## [Deciphering Classical Ciphers]()
-Focused on deciphering messages from both a shift cipher (also known as a caesar cipher) and a substitution cipher. Methods I used were brute force and pattern recogniztion such as frequency analysis and statistics like most common letters and letter combinations.
+Focused on deciphering messages from both a shift cipher (also known as a caesar cipher) and a substitution cipher. Methods I used were brute force and pattern recognition such as frequency analysis and statistics like most common letters and letter combinations.
 
 #### Applications and Tools:
-*
+* Windows 10
+* Google Chrome
+* [CrypTool 1](https://www.cryptool.org/en/ct1/downloads/) for frequency analysis
+* [practicalcryptography.com](http://practicalcryptography.com/cryptanalysis/text-characterisation/monogram-bigram-and-trigram-frequency-counts/) for frequency analysis
 
 ## [Using Public Key Algorithms]()
 --
