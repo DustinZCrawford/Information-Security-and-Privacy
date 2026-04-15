@@ -52,10 +52,13 @@ Focused on deciphering messages from both a shift cipher (also known as a caesar
 * [practicalcryptography.com](http://practicalcryptography.com/cryptanalysis/text-characterisation/monogram-bigram-and-trigram-frequency-counts/) for frequency analysis
 
 ## [Using Public Key Algorithms]()
---
+Practiced applications for public key algorithms by using Kleopatra along with integrity verification. I used Kleopatra to send and recive a message to a partner through encryption and decription with our public and private keys. This was hands on practice for authentication, authorization, access, and decryption. To verify the integrity of a download I compared the expected hash value of the download with the one in the download to see if the file had been tampered with.
 
 #### Applications and Tools:
-
+* Windows 11
+* Kleopatra
+* Hash value calculator
+* [Verification test file](https://www.openoffice.org/download/index.html)
 ## [Reconnaissance and Scanning]()
 --
 
